@@ -1,0 +1,483 @@
+canonical_identifier: bkk:krp/KR3ep054/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep054/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 旌孝堂醫案
+  identifiers:
+    krp: KR3ep054
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep054.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep054_000-jc.yaml, hash: 'sha256:dffb6e0800576052714a117e8233f7f5c2d3354110daccd0ea5f1532bf0a10ab'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep054_000-jc.markers.yaml, hash: 'sha256:58e26524ba4538f0a4756b4aafe96cb747f113a5caf76ba5c7754df725364a3d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 605
+  label: 一崩漏
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d3.h1s1
+    span:
+    - body
+    - 605
+    - 1652
+  label: 二濕溫
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d4.h1s1
+    span:
+    - body
+    - 1652
+    - 3013
+  label: 三濕痰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d5.h1s1
+    span:
+    - body
+    - 3013
+    - 3418
+  label: 四懸飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d6.h1s1
+    span:
+    - body
+    - 3418
+    - 3807
+  label: 五少腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d7.h1s1
+    span:
+    - body
+    - 3807
+    - 4248
+  label: 六眩暈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d8.h1s1
+    span:
+    - body
+    - 4248
+    - 4574
+  label: 七脘痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d9.h1s1
+    span:
+    - body
+    - 4574
+    - 4830
+  label: 八鼻瘜鼻淵
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d10.h1s1
+    span:
+    - body
+    - 4830
+    - 4934
+  label: 九腸癖
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d11.h1s1
+    span:
+    - body
+    - 4934
+    - 5377
+  label: 十癲狂
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d12.h1s1
+    span:
+    - body
+    - 5377
+    - 5654
+  label: 十一鼻衄
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d13.h1s1
+    span:
+    - body
+    - 5654
+    - 5806
+  label: 十二失血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d14.h1s1
+    span:
+    - body
+    - 5806
+    - 5971
+  label: 十三疝氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d15.h1s1
+    span:
+    - body
+    - 5971
+    - 6378
+  label: 十四痢疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d16.h1s1
+    span:
+    - body
+    - 6378
+    - 6925
+  label: 十五噎膈反胃
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d17.h1s1
+    span:
+    - body
+    - 6925
+    - 8128
+  label: 十六腫脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d18.h1s1
+    span:
+    - body
+    - 8128
+    - 8393
+  label: 十七盤腸氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d19.h1s1
+    span:
+    - body
+    - 8393
+    - 8807
+  label: 十八水飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d20.h1s1
+    span:
+    - body
+    - 8807
+    - 9232
+  label: 十九肝氣衝咽梅核氣
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d21.h1s1
+    span:
+    - body
+    - 9232
+    - 9589
+  label: 二十肺癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d22.h1s1
+    span:
+    - body
+    - 9589
+    - 10374
+  label: 二十一痞塊
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d23.h1s1
+    span:
+    - body
+    - 10374
+    - 10448
+  label: 二十二虛勞
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d24.h1s1
+    span:
+    - body
+    - 10448
+    - 10512
+  label: 二十三氣虛下墜
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d25.h1s1
+    span:
+    - body
+    - 10512
+    - 11148
+  label: 二十四脘脅腹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d26.h1s1
+    span:
+    - body
+    - 11148
+    - 11218
+  label: 二十五咳血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d27.h1s1
+    span:
+    - body
+    - 11218
+    - 13823
+  label: 二十六勞損
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d28.h1s1
+    span:
+    - body
+    - 13823
+    - 14961
+  label: 二十七瘧疾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d29.h1s1
+    span:
+    - body
+    - 14961
+    - 16168
+  label: 二十八痰飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d30.h1s1
+    span:
+    - body
+    - 16168
+    - 16425
+  label: 二十九崩帶血淋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d31.h1s1
+    span:
+    - body
+    - 16425
+    - 17277
+  label: 三十癃閉遺滑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d32.h1s1
+    span:
+    - body
+    - 17277
+    - 18131
+  label: 三十一跌撲努力傷絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d33.h1s1
+    span:
+    - body
+    - 18131
+    - 18330
+  label: 三十二瘡濕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d34.h1s1
+    span:
+    - body
+    - 18330
+    - 18663
+  label: 三十三伏邪
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d35.h1s1
+    span:
+    - body
+    - 18663
+    - 18754
+  label: 三十四臨產
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d36.h1s1
+    span:
+    - body
+    - 18754
+    - 18885
+  label: 三十五便秘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d37.h1s1
+    span:
+    - body
+    - 18885
+    - 18971
+  label: 三十六鼓脹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d38.h1s1
+    span:
+    - body
+    - 18971
+    - 19362
+  label: 三十七痔瘡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d39.h1s1
+    span:
+    - body
+    - 19362
+    - 19582
+  label: 三十八血瘕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d40.h1s1
+    span:
+    - body
+    - 19582
+    - 19791
+  label: 三十九肝氣入絡
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d41.h1s1
+    span:
+    - body
+    - 19791
+    - 19881
+  label: 四十肺痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d42.h1s1
+    span:
+    - body
+    - 19881
+    - 19945
+  label: 四十一胸痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d43.h1s1
+    span:
+    - body
+    - 19945
+    - 20032
+  label: 四十二中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d44.h1s1
+    span:
+    - body
+    - 20032
+    - 20059
+  label: 四十三舌疳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d45.h1s1
+    span:
+    - body
+    - 20059
+    - 20137
+  label: 四十四目患
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d46.h1s1
+    span:
+    - body
+    - 20137
+    - 20377
+  label: 四十五脹滿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep054_jc_000-d47.h1s1
+    span:
+    - body
+    - 20377
+    - 20460
+  label: 四十六疑痰
+  type: section
+  level: 1
+hash: sha256:5dc395b91c2efb745aa23a0b259da485db0610c50a422e27fe434ea563a1da42
