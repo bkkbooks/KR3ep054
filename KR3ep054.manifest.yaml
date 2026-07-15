@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep054/v1
 canonical_location: https://kanripo.org/bkk/KR3ep054/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 旌孝堂醫案
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep054_000.yaml, hash: 'sha256:dffb6e0800576052714a117e8233f7f5c2d3354110daccd0ea5f1532bf0a10ab'}
+  - {seq: 0, filename: KR3ep054_000.yaml, hash: 'sha256:b2650ae7656acb90a9f4d80e37ecdbbcde3e90bfd89d786147c99b1937b26653'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep054_000.markers.yaml, hash: 'sha256:2b950fc8c541fe95ba44553926da138ec7a59de1f26579914455427b4bc2ad4b'}
+  - {seq: 0, role: markers, filename: assets/KR3ep054_000.markers.yaml, hash: 'sha256:d9d60f356c9fed9209b45cb9be8d5c5d547e9307551eea2a519621b434aa37a4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -480,4 +480,7 @@ table_of_contents:
   label: 四十六疑痰
   type: section
   level: 1
-hash: sha256:52f1c7fc9980f0cd8343f63078c5e4c0acc845f1f2deba469e7f05d40a4563a6
+hash: sha256:f97307db87e1e392940ab72d7258b0281c965d510d348b165e43882754860511
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
